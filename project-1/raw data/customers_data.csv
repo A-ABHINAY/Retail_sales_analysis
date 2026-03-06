@@ -1,0 +1,501 @@
+customer_id,customer_name,city,region,signup_date
+CUST-0001,Alexandra Carter,New York,East,2019-03-12
+CUST-0002,Daniel Kim,Los Angeles,West,2020-07-24
+CUST-0003,Sophia Rodriguez,Chicago,Central,2019-11-05
+CUST-0004,Michael Nguyen,Houston,South,2021-05-19
+CUST-0005,Olivia Patel,Philadelphia,East,2022-08-02
+CUST-0006,Liam Johnson,Phoenix,West,2020-02-14
+CUST-0007,Emma Williams,San Antonio,South,2019-09-30
+CUST-0008,Noah Brown,San Diego,West,2021-12-11
+CUST-0009,Ava Martinez,Dallas,South,2023-04-08
+CUST-0010,Isabella Garcia,San Jose,West,2020-06-22
+CUST-0011,James Smith,Austin,South,2021-03-16
+CUST-0012,Benjamin Lee,Jacksonville,South,2022-10-01
+CUST-0013,Charlotte Clark,Indianapolis,Central,2019-12-07
+CUST-0014,Daniela Rivera,Columbus,Central,2020-08-28
+CUST-0015,Lucas White,Fort Worth,South,2023-01-15
+CUST-0016,Mia Harris, Charlotte,East,2021-09-03
+CUST-0017,Ethan Clark, Detroit,Central,2020-04-25
+CUST-0018,Amelia Walker,El Paso,West,2019-07-19
+CUST-0019,Henry Young,Detroit,Central,2022-05-05
+CUST-0020,Grace Lewis,Memphis,South,2024-02-28
+CUST-0021,Jonathan Reed,Seattle,West,2019-03-22
+CUST-0022,Alicia Patel,Portland,West,2019-07-11
+CUST-0023,Miguel Alvarez,San Antonio,South,2020-02-18
+CUST-0024,Emily Chen,Los Angeles,West,2020-05-04
+CUST-0025,Daniel Thompson,Denver,West,2020-11-29
+CUST-0026,Sophia Johnson,Chicago,North,2021-01-15
+CUST-0027,Liam Smith,New York,East,2021-06-07
+CUST-0028,Isabella Martinez,Boston,East,2021-09-21
+CUST-0029,Ethan Brown,Atlanta,South,2022-04-02
+CUST-0030,Mia Davis,Miami,South,2022-08-13
+CUST-0031,Noah Wilson,Phoenix,West,2023-02-28
+CUST-0032,Ava Moore,Dallas,South,2023-05-19
+CUST-0033,James Taylor,Philadelphia,East,2023-09-03
+CUST-0034,Olivia Anderson,Charlotte,Central,2024-01-14
+CUST-0035,Benjamin Thomas,Sacramento,West,2024-03-28
+CUST-0036,Charlotte Jackson,Atlanta,South,2020-12-12
+CUST-0037,Henry White,San Francisco,West,2019-10-05
+CUST-0038,Grace Harris,Raleigh,Central,2020-07-22
+CUST-0039,Lucas Martin,Cleveland,North,2021-03-30
+CUST-0040,Mason Lewis,Orlando,Central,2023-12-04
+CUST-0041,Oliver Bennett,New York,East,2019-03-14
+CUST-0042,Sophia Martinez,Chicago,Central,2019-07-22
+CUST-0043,Liam Patel,San Francisco,West,2020-01-10
+CUST-0044,Emma Johnson,Miami,South,2020-04-18
+CUST-0045,Noah Smith,Atlanta,South,2020-11-02
+CUST-0046,Ava Williams,Seattle,West,2021-02-28
+CUST-0047,James Brown,Boston,East,2021-05-15
+CUST-0048,Isabella Garcia,Denver,West,2021-08-09
+CUST-0049,Benjamin Lee,Houston,South,2022-03-03
+CUST-0050,Mia Rodriguez,Phoenix,West,2022-06-20
+CUST-0051,Lucas Gonzalez,Charlotte,South,2022-09-12
+CUST-0052,Amelia Davis,Philadelphia,East,2023-01-27
+CUST-0053,Henry Wilson,San Antonio,South,2023-04-04
+CUST-0054,Harper Martinez,San Jose,West,2023-07-19
+CUST-0055,Mason Anderson,Detroit,Central,2023-10-07
+CUST-0056,Ella Thomas,Minneapolis,Central,2024-02-14
+CUST-0057,Alexander Taylor,Portland,West,2024-05-22
+CUST-0058,Chloe Moore,Raleigh,South,2024-08-30
+CUST-0059,Daniel Jackson,Salt Lake City,West,2024-09-11
+CUST-0060,Grace White,Cleveland,Central,2024-12-05
+CUST-0061,Jonathan Reed,Seattle,West,2019-05-14
+CUST-0062,Maria Gonzalez,Austin,West,2019-11-02
+CUST-0063,Daniel Kim,Denver,West,2020-07-19
+CUST-0064,Ava Patel,New York,East,2021-03-08
+CUST-0065,Ethan Smith,Boston,East,2021-09-22
+CUST-0066,Sophia Chen,Philadelphia,East,2022-01-15
+CUST-0067,Lucas Johnson,Chicago,Central,2022-05-27
+CUST-0068,Isabella Lopez,San Diego,West,2022-08-09
+CUST-0069,Mia Davis,Atlanta,South,2023-02-03
+CUST-0070,Noah Brown,Miami,South,2023-04-16
+CUST-0071,Ella Martin,Detroit,Central,2023-07-21
+CUST-0072,Oliver Garcia,Phoenix,West,2020-10-11
+CUST-0073,Liam Wilson,Portland,West,2019-12-05
+CUST-0074,Amelia Thompson,Raleigh,South,2024-03-29
+CUST-0075,Benjamin Martinez,Columbus,Central,2020-08-18
+CUST-0076,Charlotte White,San Jose,West,2021-12-30
+CUST-0077,Henry Lee,Dallas,South,2022-04-07
+CUST-0078,Grace Perez,Cleveland,Central,2020-02-14
+CUST-0079,James Clark,San Antonio,South,2019-08-23
+CUST-0080,Victoria Anderson,Salt Lake City,West,2018-11-12
+CUST-0081,Emma Carter,Austin,Central,2019-03-14
+CUST-0082,Liam Thompson,Seattle,West,2019-07-22
+CUST-0083,Olivia Martinez,Boston,East,2020-01-05
+CUST-0084,Noah Johnson,Denver,West,2020-04-18
+CUST-0085,Ava Rodriguez,New York,North,2020-11-30
+CUST-0086,William Smith,Chicago,Central,2021-02-14
+CUST-0087,Sophia Garcia,Atlanta,South,2021-05-03
+CUST-0088,James Davis,San Francisco,West,2021-08-21
+CUST-0089,Isabella Miller,Portland,West,2022-03-09
+CUST-0090,Benjamin Anderson,Philadelphia,East,2022-06-27
+CUST-0091,Mia Taylor,Miami,South,2022-09-12
+CUST-0092,Lucas Moore,Raleigh,South,2023-01-29
+CUST-0093,Amelia Jackson,Minneapolis,North,2023-04-04
+CUST-0094,Henry White,Cleveland,North,2023-07-19
+CUST-0095,Charlotte Harris,Dallas,Central,2023-10-02
+CUST-0096,Elijah Clark,Phoenix,West,2024-02-15
+CUST-0097,Maya Lewis,Columbus,Central,2024-04-28
+CUST-0098,Daniel Robinson,Houston,South,2024-07-11
+CUST-0099,Grace Walker,San Diego,West,2024-10-07
+CUST-0100,Michael Young,San Jose,West,2024-12-18
+CUST-0101,Liam Patel,Chicago,Central,2019-04-17
+CUST-0102,Emma Johnson,New York,North,2019-08-23
+CUST-0103,Ava Martinez,Los Angeles,West,2020-02-11
+CUST-0104,Noah Smith,Houston,South,2020-07-05
+CUST-0105,Oliver Brown,Phoenix,West,2020-11-19
+CUST-0106,Sophia Garcia,Philadelphia,North,2021-03-28
+CUST-0107,Isabella Rodriguez,San Antonio,South,2021-06-02
+CUST-0108,Mason Davis,San Diego,West,2021-09-15
+CUST-0109,Mia Wilson,Dallas,South,2022-01-30
+CUST-0110,Lucas Garcia,San Jose,West,2022-04-21
+CUST-0111,Amelia Lee,Austin,South,2022-08-09
+CUST-0112,James Anderson,Jacksonville,South,2022-12-04
+CUST-0113,Ethan Clark,Fort Worth,South,2023-02-18
+CUST-0114,Charlotte Lewis,Columbus,Central,2023-05-03
+CUST-0115,Benjamin Young,San Francisco,West,2023-07-27
+CUST-0116,Mila King,Charlotte,Central,2023-10-12
+CUST-0117,Henry Wright,Indianapolis,Central,2024-01-06
+CUST-0118,Ella Scott,Seattle,North,2024-03-19
+CUST-0119,Lucas Rivera,Denver,West,2024-06-02
+CUST-0120,Harper Cooper,Boston,North,2024-09-29
+CUST-0121,Daniel Martinez,Austin,Central,2019-03-12
+CUST-0122,Sophia Chen,Seattle,West,2019-07-22
+CUST-0123,Michael Johnson,New York,East,2020-02-05
+CUST-0124,Emma Davis,Chicago,Central,2020-11-18
+CUST-0125,James Wilson,Atlanta,South,2021-04-09
+CUST-0126,Olivia Brown,San Francisco,West,2021-09-30
+CUST-0127,Lucas Garcia,Denver,West,2022-01-14
+CUST-0128,Ava Rodriguez,Miami,South,2022-05-27
+CUST-0129,Noah Martinez,Boston,North,2022-08-03
+CUST-0130,Isabella Hernandez,Philadelphia,East,2023-03-19
+CUST-0131,Ethan Lopez,Phoenix,West,2023-06-11
+CUST-0132,Mia Gonzalez,San Diego,West,2023-09-29
+CUST-0133,Alexander Wilson,Houston,South,2024-01-08
+CUST-0134,Charlotte Anderson,Portland,West,2024-03-15
+CUST-0135,Henry Thomas,Charlotte,Central,2019-12-07
+CUST-0136,Amelia Lee,Salt Lake City,West,2020-06-24
+CUST-0137,Benjamin Clark,Raleigh,South,2020-10-02
+CUST-0138,Grace Walker,Columbus,Central,2021-02-17
+CUST-0139,William Hall,Las Vegas,West,2021-07-21
+CUST-0140,Ella Young,Orlando,South,2022-12-04
+CUST-0141,Ava Thompson,New York,East,2019-03-15
+CUST-0142,Liam Carter,Chicago,North,2019-07-22
+CUST-0143,Sophia Martinez,Los Angeles,West,2020-01-10
+CUST-0144,Noah Johnson,Houston,South,2020-09-18
+CUST-0145,Isabella Brown,Phoenix,West,2021-05-05
+CUST-0146,Mason Garcia,Philadelphia,East,2021-11-30
+CUST-0147,Mia Rodriguez,San Antonio,South,2022-02-14
+CUST-0148,Ethan Davis,San Diego,West,2022-08-21
+CUST-0149,Emma Miller,Dallas,South,2023-03-12
+CUST-0150,Oliver Wilson,San Jose,West,2023-07-29
+CUST-0151,Amelia Moore,Austin,South,2019-12-01
+CUST-0152,James Taylor,Jacksonville,South,2020-04-09
+CUST-0153,Charlotte Anderson,San Francisco,West,2020-10-25
+CUST-0154,Lucas Thomas,Columbus,Central,2021-06-17
+CUST-0155,Grace Jackson,Fort Worth,Central,2021-09-02
+CUST-0156,Benjamin White,Charlotte,East,2022-01-19
+CUST-0157,Ella Harris,Detroit,North,2022-05-11
+CUST-0158,Henry Martin,El Paso,South,2023-02-07
+CUST-0159,Scarlett Thompson,Seattle,North,2023-08-23
+CUST-0160,Daniel Lewis,Portland,North,2024-02-28
+CUST-0161,Emma Thompson,Austin,West,2020-06-12
+CUST-0162,Liam Martinez,Boston,North,2019-11-03
+CUST-0163,Olivia Chen,Raleigh,South,2021-02-27
+CUST-0164,Noah Patel,Miami,South,2020-08-15
+CUST-0165,Ava Smith,New York,East,2019-05-22
+CUST-0166,James Wilson,Chicago,Central,2022-01-09
+CUST-0167,Sophia Garcia,San Francisco,West,2023-03-18
+CUST-0168,Benjamin Brown,Seattle,West,2021-09-02
+CUST-0169,Mia Rodriguez,Atlanta,South,2020-12-28
+CUST-0170,Lucas Davis,Denver,West,2019-07-04
+CUST-0171,Charlotte Miller,Portland,West,2024-01-17
+CUST-0172,Henry Anderson,Philadelphia,East,2022-04-05
+CUST-0173,Amelia Thomas,Chicago,Central,2023-08-29
+CUST-0174,Ethan Jackson,Dallas,Central,2020-03-11
+CUST-0175,Isabella White,San Diego,West,2019-09-09
+CUST-0176,Alexander Moore,Cleveland,Central,2021-05-25
+CUST-0177,Mila Taylor,Orlando,South,2022-10-07
+CUST-0178,Elijah Martinez,New Orleans,South,2020-02-14
+CUST-0179,Grace Lee,Phoenix,West,2023-06-03
+CUST-0180,Daniel Hernandez,Charlotte,South,2024-04-19
+CUST-0181,Emily Carter,Seattle,West,2019-03-14
+CUST-0182,Daniel Nguyen,Atlanta,South,2019-07-22
+CUST-0183,Sophia Martinez,Chicago,Central,2020-02-11
+CUST-0184,Liam Johnson,New York,East,2020-05-03
+CUST-0185,Olivia Brown,San Francisco,West,2020-11-19
+CUST-0186,Noah Smith,Dallas,Central,2021-01-28
+CUST-0187,Ava Williams,Miami,South,2021-04-07
+CUST-0188,James Davis,Boston,North,2021-08-15
+CUST-0189,Mia Garcia,Phoenix,West,2022-02-20
+CUST-0190,Benjamin Rodriguez,Philadelphia,East,2022-06-01
+CUST-0191,Charlotte Wilson,Denver,Central,2022-09-14
+CUST-0192,Lucas Martinez,Seattle,West,2023-01-09
+CUST-0193,Amelia Anderson,Portland,West,2023-04-26
+CUST-0194,Henry Thomas,Charlotte,South,2023-07-18
+CUST-0195,Isabella Taylor,San Jose,West,2023-12-04
+CUST-0196,Alexander Moore,Austin,South,2024-02-12
+CUST-0197,Grace Jackson,San Diego,West,2024-03-29
+CUST-0198,Michael White,Raleigh,South,2024-05-21
+CUST-0199,Evelyn Harris,Minneapolis,North,2024-08-07
+CUST-0200,Daniela Clark,Cleveland,Central,2024-11-16
+CUST-0201,Olivia Bennett,Seattle,West,2019-02-14
+CUST-0202,Aaron Patel,New York,East,2019-06-03
+CUST-0203,Sophia Ramirez,Miami,South,2020-11-22
+CUST-0204,Liam Johnson,Chicago,Central,2019-01-17
+CUST-0205,Emma Williams,San Francisco,West,2020-03-09
+CUST-0206,Noah Brown,Atlanta,South,2021-08-30
+CUST-0207,Ava Davis,Boston,East,2022-12-05
+CUST-0208,James Miller,Denver,West,2023-04-19
+CUST-0209,Isabella Wilson,Portland,West,2021-07-14
+CUST-0210,Benjamin Moore,Austin,South,2020-09-02
+CUST-0211,Mia Taylor,Raleigh,South,2022-05-21
+CUST-0212,William Anderson,Seattle,West,2023-10-10
+CUST-0213,Charlotte Thomas,Charlotte,South,2019-03-28
+CUST-0214,Lucas Jackson,Salt Lake City,West,2024-01-12
+CUST-0215,Amelia White,Chicago,Central,2020-08-07
+CUST-0216,Henry Harris,Phoenix,West,2021-02-18
+CUST-0217,Ella Martin,New Orleans,South,2023-09-25
+CUST-0218,Daniel Thompson,Houston,South,2022-01-04
+CUST-0219,Grace Garcia,San Diego,West,2024-05-15
+CUST-0220,Michael Martinez,Tampa,East,2020-12-31
+CUST-0221,Michael Peterson,Portland,North,2019-03-12
+CUST-0222,Emma Rodriguez,Atlanta,South,2020-06-04
+CUST-0223,Liam Chen,San Jose,West,2021-11-19
+CUST-0224,Olivia Carter,Raleigh,South,2019-08-23
+CUST-0225,Noah Thompson,Denver,West,2020-02-14
+CUST-0226,Ava Johnson,Cincinnati,Central,2021-04-07
+CUST-0227,James Smith,Boston,North,2022-09-30
+CUST-0228,Sophia Brown,New York,North,2023-01-21
+CUST-0229,Benjamin Davis, Philadelphia,North,2019-12-03
+CUST-0230,Isabella Miller,Charlotte,South,2020-07-15
+CUST-0231,Lucas Wilson,Seattle,West,2021-05-29
+CUST-0232,Mia Moore,Minneapolis,Central,2022-03-18
+CUST-0233,Ethan Taylor,San Antonio,South,2023-08-02
+CUST-0234,Charlotte Anderson,Miami,South,2024-01-10
+CUST-0235,Henry Jackson,Chicago,Central,2020-09-05
+CUST-0236,Amelia White,Houston,South,2019-05-16
+CUST-0237,Daniel Harris,Phoenix,West,2021-12-25
+CUST-0238,Scarlett Martin,Las Vegas,West,2022-10-08
+CUST-0239,Matthew Lee,Denver,West,2023-06-17
+CUST-0240,Grace Perez, Atlanta,North,2024-04-22
+CUST-0241,Alexandra Martinez,Seattle,West,2019-03-14
+CUST-0242,Daniel Owens,Chicago,Central,2019-07-22
+CUST-0243,Priya Kapoor,New York,East,2020-11-05
+CUST-0244,Michael Chen,San Francisco,West,2020-02-17
+CUST-0245,Sarah Thompson,Boston,East,2020-09-30
+CUST-0246,James Wilson,Denver,West,2021-04-12
+CUST-0247,Emily Davis,Atlanta,South,2021-08-03
+CUST-0248,Robert Brown,Miami,South,2022-01-19
+CUST-0249,Laura Garcia,Portland,West,2022-05-26
+CUST-0250,Kevin Martin,Philadelphia,East,2022-12-08
+CUST-0251,Natalie Wilson,Dallas,Central,2023-03-15
+CUST-0252,Tomás Rivera,San Antonio,Central,2023-06-28
+CUST-0253,Alicia Hernandez,Phoenix,West,2023-09-04
+CUST-0254,Chris Johnson,San Diego,West,2024-01-20
+CUST-0255,Emma Clark,Charlotte,South,2024-03-11
+CUST-0256,Jackson Lee,Minneapolis,Central,2024-05-24
+CUST-0257,Olivia Turner,Houston,South,2024-06-15
+CUST-0258,Daniela Rossi,Detroit,North,2024-07-07
+CUST-0259,Benjamin Clark,Columbus,Central,2024-08-30
+CUST-0260,Sophia Patel,Raleigh,South,2024-11-02
+CUST-0261,Olivia Bennett,Seattle,West,2019-05-14
+CUST-0262,Daniel Martinez,Austin,West,2019-08-23
+CUST-0263,Sophia Patel,San Jose,West,2020-02-11
+CUST-0264,James Wilson,Chicago,Central,2020-11-02
+CUST-0265,Emily Johnson,New York,East,2021-04-19
+CUST-0266,Michael Lee,Boston,East,2021-07-07
+CUST-0267,Ava Brown,Charlotte,South,2022-01-25
+CUST-0268,Ethan Garcia,Miami,South,2022-06-16
+CUST-0269,Lucas Davis,Denver,West,2023-03-03
+CUST-0270,Mia Rodriguez,San Diego,West,2023-09-12
+CUST-0271,Noah Martinez,Philadelphia,East,2024-02-28
+CUST-0272,Isabella Gonzalez,Atlanta,South,2019-12-09
+CUST-0273,Liam Smith,Portland,North,2020-08-30
+CUST-0274,Charlotte Anderson,Minneapolis,Central,2021-05-21
+CUST-0275,Benjamin Thomas,Detroit,Central,2022-03-15
+CUST-0276,Amelia Moore,Seattle,West,2022-10-04
+CUST-0277,Henry Jackson,Raleigh,South,2023-01-22
+CUST-0278,Grace White,Phoenix,West,2023-07-28
+CUST-0279,Samuel Harris,San Antonio,South,2024-01-17
+CUST-0280,Ella Martin,Cincinnati,Central,2024-04-09
+CUST-0281,Emily Carter,San Francisco,West,2019-03-14
+CUST-0282,Daniel Martinez,Atlanta,South,2019-07-22
+CUST-0283,Sophia Nguyen,New York,North,2020-01-10
+CUST-0284,Michael Johnson,Chicago,Central,2020-06-05
+CUST-0285,Olivia Smith,Seattle,West,2020-09-30
+CUST-0286,James Williams,Dallas,South,2021-02-18
+CUST-0287,Ava Brown,Boston,East,2021-05-11
+CUST-0288,Benjamin Davis,Miami,South,2021-08-25
+CUST-0289,Isabella Miller,Denver,West,2022-03-07
+CUST-0290,Lucas Garcia,Phoenix,West,2022-07-19
+CUST-0291,Mia Rodriguez,Philadelphia,East,2022-11-02
+CUST-0292,Ethan Wilson,Atlanta,South,2023-01-28
+CUST-0293,Charlotte Moore,San Diego,West,2023-04-16
+CUST-0294,Henry Taylor,San Jose,West,2023-08-09
+CUST-0295,Amelia Anderson,Austin,South,2024-02-22
+CUST-0296,Leo Thomas,Columbus,Central,2024-05-13
+CUST-0297,Grace Jackson,Portland,West,2024-07-01
+CUST-0298,Daniel White,Orlando,South,2024-08-19
+CUST-0299,Chloe Harris,Las Vegas,West,2024-09-30
+CUST-0300,Noah Martin,Raleigh,East,2024-12-04
+CUST-0301,Jonathan Reed,New York,East,2019-03-14
+CUST-0302,Emily Carter,Los Angeles,West,2019-07-22
+CUST-0303,Michael Thompson,Chicago,Central,2020-01-08
+CUST-0304,Sarah Martinez,Houston,South,2020-05-19
+CUST-0305,David Wilson,Phoenix,West,2020-09-03
+CUST-0306,Jessica Lee,Philadelphia,East,2021-02-27
+CUST-0307,Daniel Clark,San Antonio,South,2021-11-12
+CUST-0308,Ashley Lewis,San Diego,West,2022-04-05
+CUST-0309,Andrew Walker,Dallas,Central,2022-08-30
+CUST-0310,Lauren Hall,San Jose,West,2023-01-22
+CUST-0311,Christopher Allen,Austin,South,2023-03-17
+CUST-0312,Megan Young,Jacksonville,South,2023-06-08
+CUST-0313,Matthew Hernandez,Fort Worth,Central,2023-09-14
+CUST-0314,Amanda King,Columbus,East,2024-02-03
+CUST-0315,Joshua Wright,Charlotte,South,2024-04-21
+CUST-0316,Nicole Scott,San Francisco,West,2024-06-11
+CUST-0317,Brian Adams,Indianapolis,Central,2020-12-18
+CUST-0318,Stephanie Baker,Seattle,North,2021-09-07
+CUST-0319,Kevin Carter,Denver,North,2022-10-25
+CUST-0320,Olivia Mitchell,Boston,North,2023-12-02
+CUST-0321,Olivia Bennett,New York,East,2019-03-14
+CUST-0322,Jordan Smith,Los Angeles,West,2019-07-22
+CUST-0323,Ava Thompson,Chicago,Central,2020-01-11
+CUST-0324,Ethan Martinez,Houston,South,2020-05-30
+CUST-0325,Mia Johnson,Phoenix,West,2020-09-08
+CUST-0326,Lucas Garcia,Philadelphia,East,2021-02-14
+CUST-0327,Isabella Rodriguez,San Antonio,Central,2021-06-19
+CUST-0328,Noah Wilson,San Diego,West,2021-11-02
+CUST-0329,Emma Lee,Dallas,South,2022-03-25
+CUST-0330,Liam Clark,San Jose,West,2022-07-07
+CUST-0331,Charlotte Lewis,Austin,Central,2022-12-15
+CUST-0332,James Walker,Jacksonville,South,2023-02-27
+CUST-0333,Amelia Hall,Fort Worth,South,2023-05-19
+CUST-0334,Benjamin Young,Columbus,Central,2023-08-03
+CUST-0335,Ella King,Charlotte,East,2023-10-28
+CUST-0336,Alexander Scott,San Francisco,West,2024-01-04
+CUST-0337,Mila Perez,Indianapolis,Central,2024-02-18
+CUST-0338,Daniel Rivera,Seattle,North,2024-04-09
+CUST-0339,Sophia Lopez,Denver,North,2024-09-12
+CUST-0340,Henry Martinez,Boston,North,2024-12-31
+CUST-0341,Emily Carter,Seattle,West,2020-03-14
+CUST-0342,Daniel Reed,New York,East,2019-08-22
+CUST-0343,Sophia Martinez,San Francisco,West,2021-11-05
+CUST-0344,Michael Chen,Boston,East,2020-07-19
+CUST-0345,Olivia Patel,Chicago,Central,2022-02-28
+CUST-0346,Liam Johnson,Atlanta,South,2019-05-13
+CUST-0347,Ava Williams,Denver,West,2023-09-07
+CUST-0348,Noah Brown,Philadelphia,East,2020-12-30
+CUST-0349,Isabella Garcia,Miami,South,2021-04-21
+CUST-0350,James Smith,Houston,South,2019-11-02
+CUST-0351,Mia Rodriguez,Phoenix,West,2022-08-16
+CUST-0352,Benjamin Lee,San Diego,West,2020-01-09
+CUST-0353,Charlotte Kim,Dallas,Central,2019-03-24
+CUST-0354,Henry Nguyen,San Jose,West,2023-05-30
+CUST-0355,Grace Thompson,Charlotte,Central,2021-07-12
+CUST-0356,Lucas Martin,Orlando,South,2020-09-04
+CUST-0357,Evelyn Clark,Portland,North,2022-04-18
+CUST-0358,Alexander Lewis,Seattle,West,2019-12-07
+CUST-0359,Scarlett Turner,Atlanta,South,2024-06-01
+CUST-0360,Daniela Rivera,Salt Lake City,North,2019-10-29
+CUST-0361,Olivia Martinez,Seattle,West,2019-03-12
+CUST-0362,Ethan Brown,Denver,West,2019-07-08
+CUST-0363,Ava Wilson,San Francisco,West,2020-02-22
+CUST-0364,James Johnson,New York,East,2020-11-15
+CUST-0365,Sophia Garcia,Boston,East,2021-05-03
+CUST-0366,Benjamin Miller,Philadelphia,East,2021-09-19
+CUST-0367,Isabella Davis,Chicago,Central,2019-12-04
+CUST-0368,Lucas Rodriguez,Atlanta,South,2020-04-28
+CUST-0369,Mia Martinez,Miami,South,2020-10-31
+CUST-0370,Noah Hernandez,Dallas,South,2021-01-14
+CUST-0371,Amelia Lopez,Charlotte,South,2021-06-07
+CUST-0372,Elijah Gonzalez,Phoenix,West,2022-02-18
+CUST-0373,Mason Clark,San Diego,West,2022-07-22
+CUST-0374,Charlotte Lewis,Portland,West,2022-12-02
+CUST-0375,Grace Young,San Jose,West,2023-03-09
+CUST-0376,Henry Walker,Austin,South,2023-08-30
+CUST-0377,Lucas Hall,Nashville,Central,2024-01-21
+CUST-0378,Ella Allen,Raleigh,South,2024-04-17
+CUST-0379,Daniel King,Orlando,South,2024-06-05
+CUST-0380,Zoey Wright,Cincinnati,Central,2024-11-29
+CUST-0381,Olivia Martinez,San Antonio,Central,2019-03-12
+CUST-0382,Liam Johnson,Phoenix,West,2019-07-08
+CUST-0383,Emma Williams,Atlanta,South,2020-01-25
+CUST-0384,Noah Brown,Chicago,Central,2020-05-19
+CUST-0385,Ava Garcia,New York,North,2020-09-02
+CUST-0386,William Miller,Seattle,West,2021-02-14
+CUST-0387,Sophia Davis,Orlando,South,2021-11-03
+CUST-0388,James Rodriguez,Denver,West,2022-04-22
+CUST-0389,Isabella Martinez,Boston,East,2022-08-16
+CUST-0390,Benjamin Hernandez,Philadelphia,East,2023-01-09
+CUST-0391,Mia Lopez,San Francisco,West,2023-03-30
+CUST-0392,Lucas Gonzalez,Houston,South,2023-06-18
+CUST-0393,Amelia Perez,Miami,South,2023-09-07
+CUST-0394,Henry Wilson,Portland,West,2024-02-01
+CUST-0395,Charlotte Anderson,Seattle,West,2024-04-15
+CUST-0396,Elijah Thomas,Minneapolis,Central,2019-12-12
+CUST-0397,Mason White,Nashville,Central,2020-06-28
+CUST-0398,Ella Harris,Charlotte,Central,2021-08-04
+CUST-0399,Daniel Clark,San Diego,West,2021-10-20
+CUST-0400,Grace Lewis,Raleigh,East,2022-12-11
+CUST-0401,Ava Thompson,Seattle,West,2019-04-12
+CUST-0402,Jonah Miller,Boston,East,2019-07-23
+CUST-0403,Zoey Carter,Chicago,Central,2020-02-11
+CUST-0404,Liam Rodriguez,Miami,South,2020-05-29
+CUST-0405,Mia Patel,New York,East,2020-09-14
+CUST-0406,Ethan Kim,San Francisco,West,2021-01-08
+CUST-0407,Emily Garcia,Denver,West,2021-03-22
+CUST-0408,Daniel Smith,Atlanta,Central,2021-06-30
+CUST-0409,Grace Lee,Houston,South,2021-11-17
+CUST-0410,Lucas Brown,Philadelphia,East,2022-02-05
+CUST-0411,Chloe Davis,Portland,West,2022-04-19
+CUST-0412,Benjamin Wilson,San Diego,West,2022-08-26
+CUST-0413,Ella Martinez,Austin,South,2023-02-13
+CUST-0414,Henry Clark,Phoenix,South,2023-05-01
+CUST-0415,Sophia Lewis,Charlotte,Central,2023-07-28
+CUST-0416,James Walker,Raleigh,Central,2023-10-09
+CUST-0417,Amelia Young,Las Vegas,West,2024-01-12
+CUST-0418,Mason Hall,Columbus,Central,2024-03-07
+CUST-0419,Harper King,Kansas City,Central,2024-06-16
+CUST-0420,Lucas Rivera,Detroit,North,2024-11-03
+CUST-0421,Alexandra Kim,Seattle,West,2019-03-14
+CUST-0422,Daniel Rivera,Orlando,South,2019-07-22
+CUST-0423,Priya Sharma,New York,East,2020-01-11
+CUST-0424,Michael Chen,San Francisco,West,2020-04-30
+CUST-0425,Sarah Johnson,Chicago,Central,2020-09-18
+CUST-0426,James Patel,Atlanta,Central,2021-02-27
+CUST-0427,Emily Davis,Boston,East,2021-05-16
+CUST-0428,Christopher Lee,Denver,West,2021-08-03
+CUST-0429,Mia Garcia,Miami,South,2022-03-25
+CUST-0430,Ethan Wilson,Philadelphia,East,2022-06-12
+CUST-0431,Isabella Martinez,San Diego,West,2022-11-08
+CUST-0432,Benjamin Brown,Dallas,Central,2023-01-29
+CUST-0433,Olivia Anderson,Portland,West,2023-04-15
+CUST-0434,Lucas Harris,Charlotte,Central,2023-07-07
+CUST-0435,Amelia Clark,Phoenix,West,2023-10-21
+CUST-0436,Noah Lewis,Houston,South,2024-02-19
+CUST-0437,Grace Walker,Atlanta,Central,2024-05-30
+CUST-0438,Liam Young,San Jose,West,2024-08-13
+CUST-0439,Chloe Scott,Columbus,Central,2024-10-05
+CUST-0440,Ava Turner,Salt Lake City,West,2024-12-20
+CUST-0441,Austin Parker,Seattle,West,2019-03-14
+CUST-0442,Mia Thompson,Atlanta,South,2019-07-22
+CUST-0443,Oliver Reed,Boston,North,2020-01-05
+CUST-0444,Sophia Martinez,Denver,West,2020-04-18
+CUST-0445,Liam Chen,San Francisco,West,2020-09-30
+CUST-0446,Emma Davis,New York,North,2021-02-11
+CUST-0447,Noah Johnson,Chicago,Central,2021-06-08
+CUST-0448,Ava Miller,Miami,South,2021-11-19
+CUST-0449,Lucas Wilson,Portland,West,2022-03-02
+CUST-0450,Isabella Moore,Philadelphia,East,2022-05-27
+CUST-0451,Mason Taylor,Dallas,South,2022-08-14
+CUST-0452,Ella Anderson,Phoenix,West,2023-01-16
+CUST-0453,James White,San Diego,West,2023-04-25
+CUST-0454,Charlotte Harris,Houston,South,2023-07-09
+CUST-0455,Benjamin Lewis,Charlotte,Central,2023-10-31
+CUST-0456,Amelia Walker,Atlanta,South,2024-02-17
+CUST-0457,Henry Young,Seattle,West,2024-05-23
+CUST-0458,Grace Hall,New Orleans,South,2024-07-12
+CUST-0459,Daniel Scott,Raleigh,Central,2024-10-04
+CUST-0460,Layla Green,Las Vegas,West,2024-12-01
+CUST-0461,Emily Carter,New York,East,2019-03-14
+CUST-0462,Daniel Ramirez,Los Angeles,West,2020-07-22
+CUST-0463,Sophia Nguyen,Houston,South,2019-11-03
+CUST-0464,Michael Johnson,Chicago,Central,2021-04-30
+CUST-0465,Olivia Smith,Phoenix,West,2022-02-17
+CUST-0466,James Brown,Philadelphia,East,2020-09-08
+CUST-0467,Ava Davis,San Antonio,South,2019-06-21
+CUST-0468,Benjamin Wilson,San Diego,West,2021-12-05
+CUST-0469,Isabella Martinez,Dallas,Central,2023-03-15
+CUST-0470,Lucas Garcia,San Jose,West,2020-08-28
+CUST-0471,Mia Anderson,Austin,South,2024-01-12
+CUST-0472,Ethan Rodriguez,Jacksonville,South,2019-12-02
+CUST-0473,Charlotte Lee,Fort Worth,South,2020-05-19
+CUST-0474,Henry Clark,Columbus,East,2021-07-07
+CUST-0475,Amelia Lewis,San Francisco,West,2022-10-31
+CUST-0476,Elijah Walker,Charlotte,East,2023-02-14
+CUST-0477,Grace Hall,Detroit,North,2020-04-25
+CUST-0478,Leo Young,El Paso,South,2019-09-09
+CUST-0479,Chloe King,Seattle,North,2021-01-27
+CUST-0480,Noah Scott,Miami,Central,2024-04-03
+CUST-0481,Emily Carter,Seattle,West,2019-03-15
+CUST-0482,Daniel Ramirez,Denver,West,2019-07-22
+CUST-0483,Sophia Nguyen,San Jose,West,2020-01-10
+CUST-0484,Michael Thompson,Atlanta,South,2020-05-30
+CUST-0485,Olivia Smith,Miami,South,2020-11-02
+CUST-0486,James Johnson,New York,North,2021-02-18
+CUST-0487,Ava Williams,Boston,North,2021-06-09
+CUST-0488,Benjamin Brown,Washington,North,2021-09-21
+CUST-0489,Isabella Jones,Chicago,Central,2022-03-04
+CUST-0490,Henry Garcia,Dallas,Central,2022-08-15
+CUST-0491,Mia Martinez,Austin,Central,2023-01-27
+CUST-0492,Lucas Rodriguez,Phoenix,West,2023-04-12
+CUST-0493,Charlotte Hernandez,San Francisco,West,2023-07-19
+CUST-0494,Elijah Lee,Portland,West,2023-10-05
+CUST-0495,Amelia Gonzalez,Philadelphia,North,2024-02-03
+CUST-0496,Alexander Clark,Seattle,West,2024-04-25
+CUST-0497,Grace Lewis,Charlotte,Central,2024-06-18
+CUST-0498,Noah Walker,Orlando,South,2024-07-09
+CUST-0499,Liam Hall,San Diego,West,2024-08-22
+CUST-0500,Ella Young,Columbus,Central,2024-09-14

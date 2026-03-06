@@ -1,0 +1,101 @@
+product_id,category,sub_category,cost_price
+PROD-001,Electronics,Laptops,899.99
+PROD-002,Clothing,T-Shirts,19.99
+PROD-003,Home & Kitchen,Cookware,45.5
+PROD-004,Sports,Yoga,29.0
+PROD-005,Beauty,Skincare,25.75
+PROD-006,Electronics,Headphones,199.99
+PROD-007,Clothing,Hoodies,39.99
+PROD-008,Home & Kitchen,Small Appliances,120.0
+PROD-009,Sports,Fitness Accessories,14.99
+PROD-010,Beauty,Makeup,32.0
+PROD-011,Electronics,Laptops,899.99
+PROD-012,Clothing,T-Shirts,12.5
+PROD-013,Home & Kitchen,Cookware,45.0
+PROD-014,Sports,Yoga,29.99
+PROD-015,Beauty,Skincare,25.0
+PROD-016,Electronics,Headphones,119.99
+PROD-017,Clothing,Jeans,40.0
+PROD-018,Home & Kitchen,Small Appliances,99.95
+PROD-019,Sports,Fitness Accessories,19.5
+PROD-020,Beauty,Makeup,14.75
+PROD-021,Electronics,Laptops,999.99
+PROD-022,Clothing,T-Shirts,19.99
+PROD-023,Home & Kitchen,Cookware,45.5
+PROD-024,Sports,Yoga,29.95
+PROD-025,Beauty,Skincare,24.0
+PROD-026,Electronics,Headphones,149.99
+PROD-027,Clothing,Hoodies,39.99
+PROD-028,Home & Kitchen,Small Appliances,89.99
+PROD-029,Electronics,Laptops,799.99
+PROD-030,Clothing,T-Shirts,14.5
+PROD-031,Home & Kitchen,Cookware,39.99
+PROD-032,Sports,Yoga,29.95
+PROD-033,Beauty,Skincare,24.0
+PROD-034,Electronics,Headphones,129.0
+PROD-035,Clothing,Outerwear,89.5
+PROD-036,Home & Kitchen,Small Appliances,149.99
+PROD-037,Sports,Fitness Gear,59.99
+PROD-038,Beauty,Makeup,19.5
+PROD-039,Electronics,Laptops,899.99
+PROD-040,Clothing,T-Shirts,19.99
+PROD-041,Home & Kitchen,Cookware,45.5
+PROD-042,Sports,Yoga,29.99
+PROD-043,Beauty,Skincare,24.0
+PROD-044,Electronics,Headphones,149.99
+PROD-045,Clothing,Jeans,39.5
+PROD-046,Home & Kitchen,Small Appliances,89.95
+PROD-047,Sports,Fitness Equipment,199.0
+PROD-048,Beauty,Makeup,14.75
+PROD-049,Electronics,Laptops,999.99
+PROD-050,Clothing,T-Shirts,19.5
+PROD-051,Home & Kitchen,Cookware,45.0
+PROD-052,Sports,Yoga,29.95
+PROD-053,Beauty,Skincare,24.0
+PROD-054,Electronics,Headphones,79.99
+PROD-055,Clothing,Hoodies,39.99
+PROD-056,Home & Kitchen,Small Appliances,120.0
+PROD-057,Sports,Fitness Accessories,14.99
+PROD-058,Beauty,Makeup,22.5
+PROD-059,Electronics,Laptops,799.99
+PROD-060,Clothing,T-Shirts,14.5
+PROD-061,Home & Kitchen,Cookware,39.95
+PROD-062,Sports,Yoga,29.99
+PROD-063,Beauty,Skincare,24.0
+PROD-064,Electronics,Headphones,149.99
+PROD-065,Clothing,Jeans,42.0
+PROD-066,Home & Kitchen,Small Appliances,89.5
+PROD-067,Sports,Fitness Gear,59.99
+PROD-068,Beauty,Hair Care,19.99
+PROD-069,Electronics,Laptops,899.99
+PROD-070,Clothing,T-Shirts,19.99
+PROD-071,Home & Kitchen,Cookware,45.5
+PROD-072,Sports,Yoga,29.99
+PROD-073,Beauty,Skincare,24.0
+PROD-074,Electronics,Headphones,129.99
+PROD-075,Clothing,Jeans,39.5
+PROD-076,Home & Kitchen,Small Appliances,79.99
+PROD-077,Sports,Fitness Accessories,15.0
+PROD-078,Beauty,Makeup,14.5
+PROD-079,Electronics,Laptops,899.99
+PROD-080,Clothing,T-Shirts,19.5
+PROD-081,Home & Kitchen,Cookware,45.0
+PROD-082,Sports,Yoga,29.99
+PROD-083,Beauty,Skincare,24.0
+PROD-084,Electronics,Headphones,120.0
+PROD-085,Clothing,Jeans,39.95
+PROD-086,Home & Kitchen,Small Appliances,149.99
+PROD-087,Sports,Fitness Accessories,14.5
+PROD-088,Beauty,Makeup,12.0
+PROD-089,Electronics,Laptops,899.99
+PROD-090,Clothing,T-Shirts,19.5
+PROD-091,Home & Kitchen,Cookware,49.99
+PROD-092,Sports,Yoga,29.0
+PROD-093,Beauty,Skincare,24.5
+PROD-094,Electronics,Headphones,149.95
+PROD-095,Clothing,Jeans,39.99
+PROD-096,Home & Kitchen,Small Appliances,89.0
+PROD-097,Sports,Fitness Accessories,12.75
+PROD-098,Beauty,Hair Care,14.99
+PROD-099,Electronics,Smart Home Devices,129.0
+PROD-100,Clothing,Outerwear,59.5
