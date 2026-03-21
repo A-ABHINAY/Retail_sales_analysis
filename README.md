@@ -29,6 +29,8 @@ Power BI (Dashboard Visualization)
 • A small group of customers contributes a large portion of total revenue.
 
 ## Dashboard
+<img width="1356" height="774" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/39d9c2aa-3fbf-41e6-bb70-ea13b90d95f9" />
+
 
 The Power BI dashboard visualizes:
 
