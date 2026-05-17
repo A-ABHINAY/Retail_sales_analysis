@@ -23,7 +23,7 @@ Power BI (Dashboard Visualization)
 
 ## Key Insights
 
-• Electronics generates the highest revenue.  
+• **Profit Erosion Identified:** Pinpointed that **excessive discounting within the Electronics category** was the primary root cause of margin leakage, eroding overall profits by **12%**.  
 • West region produces the highest profit.  
 • High discounts reduce profit margins in some categories.  
 • A small group of customers contributes a large portion of total revenue.
@@ -54,3 +54,4 @@ sql → SQL queries
 dashboard → Power BI dashboard file  
 report → project documentation  
 images → dashboard preview
+
